@@ -132,7 +132,7 @@ def RPDlepr(elements):
     return index
 
 
-def RDPgep(elements):
+def RPDgep(elements):
     index = 0
     positive = []
     negative = []
@@ -170,7 +170,7 @@ def RDPgep(elements):
     return index
 
 
-def RDPgea(elements):
+def RPDgea(elements):
     index = 0
     positiveGroup = []
     negativeGroup = []
@@ -219,7 +219,7 @@ def RDPgea(elements):
     return index
 
 
-def RDPgepr(elements):
+def RPDgepr(elements):
     index = 0
     positiveGroup = []
     negativeGroup = []
@@ -304,25 +304,25 @@ def RDPgepr(elements):
 # print(v)
 # print("-----")
 #
-# print("RDPgep START")
+# print("RPDgep START")
 # print(datetime.datetime.now())
-# v=RDPgep(sampleValue)
-# print("RDPgep STOP")
-# print(datetime.datetime.now())
-# print(v)
-# print("-----")
-#
-# print("RDPgea START")
-# print(datetime.datetime.now())
-# v=RDPgea(sampleValue)
-# print("RDPgea STOP")
+# v=RPDgep(sampleValue)
+# print("RPDgep STOP")
 # print(datetime.datetime.now())
 # print(v)
 # print("-----")
 #
-# print("RDPgepr START")
+# print("RPDgea START")
 # print(datetime.datetime.now())
-# v=RDPgepr(sampleValue)
-# print("RDPgepr STOP")
+# v=RPDgea(sampleValue)
+# print("RPDgea STOP")
+# print(datetime.datetime.now())
+# print(v)
+# print("-----")
+#
+# print("RPDgepr START")
+# print(datetime.datetime.now())
+# v=RPDgepr(sampleValue)
+# print("RPDgepr STOP")
 # print(datetime.datetime.now())
 # print(v)
