@@ -6,7 +6,7 @@ authors:
     given-names: Marco
 version: "v1.1.0"
 date-released: "20/05/2026"
-doi: "10.5281/zenodo.20313684"
+doi: "10.5281/zenodo.20313771"
 url: "https://github.com/marcorighi/RPDindex"
 license: "CC-BY-4.0"
 abstract: "Reference implementation and synthetic datasets for the RPD index family, designed to assess directional changes in normalized sequential data."
