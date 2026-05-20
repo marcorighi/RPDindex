@@ -1,14 +1,36 @@
-# Creative Commons Attribution 4.0 International (CC BY 4.0) License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This code is licensed under the terms of the Creative Commons Attribution 4.0 International License.
+Copyright (c) Marco Righi
 
-## Attribution
+This repository, including the source code, MATLAB scripts, generated datasets, documentation, and associated release materials, is licensed under the Creative Commons Attribution 4.0 International License unless otherwise stated in individual files.
 
-If you use this code, please provide appropriate credit by:
-1. Including a visible and appropriate attribution notice in any materials or publications that use this code.
-2. Providing a link to the original repository: https://github.com/marcorighi/RPDindex
-3. Indicating if changes were made to the original code.
+You are free to:
 
-## License Text
+1. Share — copy and redistribute the material in any medium or format.
+2. Adapt — remix, transform, and build upon the material for any purpose, including commercial purposes.
 
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
+Under the following terms:
+
+1. Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+2. Citation — When this software, dataset, or derived results are used in scientific or technical work, please cite the archived release DOI:
+
+   DOI: INSERT-ZENODO-SOFTWARE-DOI-HERE
+
+   Recommended software citation:
+   Marco Righi.
+   RPDindex: Realistic Performance Determination indices for directional changes in normalized data.
+   Zenodo. DOI: INSERT-ZENODO-SOFTWARE-DOI-HERE
+
+   The associated manuscript is currently under review and does not yet have an article DOI. After publication, add the final bibliographic details and article DOI to the README and citation notes.
+
+3. No endorsement — Attribution must not imply that the author or the article co-authors endorse you or your use.
+4. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+License text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/licenses/by/4.0/
+
+Repository:
+https://github.com/marcorighi/RPDindex
