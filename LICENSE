@@ -14,12 +14,12 @@ Under the following terms:
 1. Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 2. Citation — When this software, dataset, or derived results are used in scientific or technical work, please cite the archived release DOI:
 
-   DOI: INSERT-ZENODO-SOFTWARE-DOI-HERE
+   DOI: 10.5281/zenodo.20313684
 
    Recommended software citation:
    Marco Righi.
    RPDindex: Realistic Performance Determination indices for directional changes in normalized data.
-   Zenodo. DOI: INSERT-ZENODO-SOFTWARE-DOI-HERE
+   Zenodo. DOI: 10.5281/zenodo.20313684
 
    The associated manuscript is currently under review and does not yet have an article DOI. After publication, add the final bibliographic details and article DOI to the README and citation notes.
 
@@ -35,4 +35,3 @@ https://creativecommons.org/licenses/by/4.0/
 Repository:
 https://github.com/marcorighi/RPDindex
 
-zenodo
