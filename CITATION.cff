@@ -4,9 +4,9 @@ title: "RPDindex: Realistic Performance Determination indices for directional ch
 authors:
   - family-names: Righi
     given-names: Marco
-version: "INSERT-RELEASE-VERSION-HERE"
-date-released: "INSERT-RELEASE-DATE-HERE"
-doi: "INSERT-ZENODO-SOFTWARE-DOI-HERE"
+version: "v1.1.0"
+date-released: "20/05/2026"
+doi: "10.5281/zenodo.20313684"
 url: "https://github.com/marcorighi/RPDindex"
 license: "CC-BY-4.0"
 abstract: "Reference implementation and synthetic datasets for the RPD index family, designed to assess directional changes in normalized sequential data."
