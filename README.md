@@ -8,7 +8,7 @@ The software implementation in this repository was developed by Marco Righi.
 
 The software DOI will be added after Zenodo archiving:
 
-> **Software DOI:** `INSERT-ZENODO-SOFTWARE-DOI-HERE`
+> **Software DOI:** `10.5281/zenodo.20313684`
 
 The associated manuscript is currently under review and does not yet have an article DOI.
 
@@ -151,7 +151,7 @@ If you use this software, the generated datasets, or results derived from them i
 ```text
 Marco Righi.
 RPDindex: Realistic Performance Determination indices for directional changes in normalized data.
-Zenodo. DOI: INSERT-ZENODO-SOFTWARE-DOI-HERE
+Zenodo. DOI: 10.5281/zenodo.20313684
 ```
 
 BibTeX placeholder:
@@ -162,7 +162,7 @@ BibTeX placeholder:
   title        = {{RPDindex: Realistic Performance Determination indices for directional changes in normalized data}},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {INSERT-ZENODO-SOFTWARE-DOI-HERE},
+  doi          = {10.5281/zenodo.20313684},
   url          = {https://github.com/marcorighi/RPDindex}
 }
 ```
