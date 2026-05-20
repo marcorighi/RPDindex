@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, dataset, or derived results, please cite the archived Zenodo release DOI."
+title: "RPDindex: Realistic Performance Determination indices for directional changes in normalized data"
+authors:
+  - family-names: Righi
+    given-names: Marco
+version: "INSERT-RELEASE-VERSION-HERE"
+date-released: "INSERT-RELEASE-DATE-HERE"
+doi: "INSERT-ZENODO-SOFTWARE-DOI-HERE"
+url: "https://github.com/marcorighi/RPDindex"
+license: "CC-BY-4.0"
+abstract: "Reference implementation and synthetic datasets for the RPD index family, designed to assess directional changes in normalized sequential data."
+keywords:
+  - RPD index
+  - normalized data
+  - time series
+  - directional change
+  - synthetic data
+  - biomedical informatics
+repository-code: "https://github.com/marcorighi/RPDindex"
