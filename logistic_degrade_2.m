@@ -12,7 +12,7 @@ for rndvalue=1:500:1001
                 myf = @(beta,x) beta(1)*x./(beta(2) + x);
 
                 %mymodelfun = @(beta,x) 1./(1 + exp(-myf(beta,(x-1))));
-                mymodelfun = @(beta,x) (+sin(x)+(1./(1 + exp(-myf(beta,(x-1)))))).^2;
+                mymodelfun = @(beta,x) (sin(cangle*x)+(1./(1 + exp(-myf(beta,(x-1)))))).^2;
 
                 rng(rndvalue,'twister');
                 x    = linspace(0,4,npoints)';
