@@ -5,7 +5,7 @@
 ######################################
 # If any question please contact
 # the author of the code
-# marco.righi@isti.cnr.it
+# marco.righi@cnr.it
 ######################################
 
 import sys
